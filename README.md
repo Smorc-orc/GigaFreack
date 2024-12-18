@@ -36,3 +36,4 @@ python main.py
 factorial *= (2 * n - 1) * (2 * n)
 Авторы
 Программа была разработана Величайшим(Да-да Я).
+![image](https://github.com/user-attachments/assets/57f06c73-a797-4dba-82f4-5bfe90e09e69)
