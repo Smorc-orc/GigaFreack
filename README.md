@@ -33,7 +33,11 @@ python main.py
 Если вам нужно изменить значение x, выберите команду 4.
 Формулы
 Для вычисления значения функции используется разложение в ряд Маклорена:
+![image](https://github.com/user-attachments/assets/082f8bd3-9b8d-4d8f-b91a-0df1b1c499c9)
+![image](https://github.com/user-attachments/assets/527028f2-e860-4ee3-9702-503ee47245a7)
+![image](https://github.com/user-attachments/assets/f7af3f15-bcdf-455d-b3f1-b79da50bdb17)
 factorial *= (2 * n - 1) * (2 * n)
+term = ((-1) ** n) * (x ** (2 * n + 1)) / (2 * n + 1)
 Авторы
 Программа была разработана Величайшим(Да-да Я).
 ![image](https://github.com/user-attachments/assets/57f06c73-a797-4dba-82f4-5bfe90e09e69)
